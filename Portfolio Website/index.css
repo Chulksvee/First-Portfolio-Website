@@ -1,0 +1,131 @@
+body{
+    background-color: rgb(241, 241, 241);
+
+}
+
+/* .skyline{
+    width: 20%;
+} */
+
+.navbar{
+    background-color: rgb(35, 145, 255);
+}
+
+.nav-link{
+    text-transform: uppercase;
+    color: white!important;
+    font-family: poppins;
+    font-size: 15px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+
+/* here is the hover for nav-link */
+
+.nav-link:hover{
+   color: yellow!important;
+   border: 1px solid yellow;
+}
+
+
+.navbar-brand{
+    color: white!important;
+    font-family: fantasy;
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+
+
+.VEE{
+    color: yellow;
+}
+
+/* here is my social media icons */
+
+.fa-brands{
+    font-size: 40px;
+    margin-top: 30px;
+    margin-left: 30px;
+    gap: 3;
+    background-color: rgb(255, 255, 255);
+}
+
+/* here is my slider design caption */
+
+.carousel-caption{
+    margin-bottom: 350px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold!important;
+    background-color: rgba(0, 0, 0, 0.31)
+}
+
+/* here is my h1 caption design */
+
+.carousel-caption h1{
+   font-size: 40px;
+   text-transform: uppercase;
+   color: orange;
+   font-weight: bold;
+}
+
+.carousel-caption p{
+    font-size: 20px;
+    text-transform:capitalize;
+    font-weight: bold;
+    width: 60%;
+    margin: auto;
+    line-height: 1,5rem;
+    font-family: poppins;
+    margin-bottom: 40px;
+ }
+
+/* here is my botton design */
+
+.botton{
+    background-color:rgb(35, 145, 255);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: px;
+    font-weight: bold;
+}
+
+.botton:hover{
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
+
+/* here is my container-slider design */
+
+.black-point{
+    background-color: black;
+    padding-bottom: 20px;
+}
+
+/* Here is my mobile responsiveness design */
+
+@media screen {
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
